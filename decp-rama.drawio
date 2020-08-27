@@ -1,17 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T13:25:46.687Z" agent="5.0 (X11)" etag="tG3XeAchi870m6sVHhPt" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T13:37:00.590Z" agent="5.0 (X11)" etag="jxqAf5O-AeHwe_X0hHyZ" version="13.6.5" type="github">
   <diagram id="YwVPcnQrtgQc1rpSdtJS" name="Page-1">
     <mxGraphModel dx="1382" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hwIMmI3QBjWFJ3wTzXhl-1" value="data.gouv.fr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="hwIMmI3QBjWFJ3wTzXhl-1" value="Fichiers consolidés des données essentielles de la commande publique" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="260" width="180" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="CircleCI (https://circleci.com/gh/139bercy/decp-rama)" link="https://circleci.com/gh/139bercy/decp-rama" id="hwIMmI3QBjWFJ3wTzXhl-2">
+        <mxCell id="hwIMmI3QBjWFJ3wTzXhl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hwIMmI3QBjWFJ3wTzXhl-2" target="hwIMmI3QBjWFJ3wTzXhl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;CircleCI&lt;/div&gt;&amp;nbsp;(cliquez pour voir les logs)" id="hwIMmI3QBjWFJ3wTzXhl-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="170" y="310" width="190" height="60" as="geometry" />
+            <mxGeometry x="200" y="535" width="140" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="hwIMmI3QBjWFJ3wTzXhl-5" value="data.gouv.fr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hwIMmI3QBjWFJ3wTzXhl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hwIMmI3QBjWFJ3wTzXhl-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hwIMmI3QBjWFJ3wTzXhl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="hwIMmI3QBjWFJ3wTzXhl-11" target="hwIMmI3QBjWFJ3wTzXhl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwIMmI3QBjWFJ3wTzXhl-11" value="Jeux de données source (AIFE, PES Marché, profils d&#39;acheteur)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="180" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
